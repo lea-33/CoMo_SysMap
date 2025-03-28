@@ -1,0 +1,802 @@
+[
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d731f"
+        },
+        "abstract": "How do we support successful, lifelong learners and performers and help them competently respond to rapidly changing opportunities in the 21st century. The answer to this question lies in how well we understand audiences differentiated by key learning differences and consider how these differentiations influence winning learning and performance. Historically, cognitive-rich explanations have tended to underplay the dominant impact of affective and conative factors on thinking and learning. Recently, these dimensions have gained considerable importance as contemporary multidisciplinary research has begun to demonstrate how intentions and emotions can influence, guide, and, at times, override our thinking and other cognitive processes. More importantly, research suggests that intentions and emotions are a dominant, powerful influence on learner success.",
+        "title": "Editorial",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7321"
+        },
+        "abstract": "<p>Traditional readability concerns are alive and well, but subsumed within several more recent documentation quality efforts. For example, concerns with interestingness and translatability for global markets, with audience analysis and task sufficiency, and with reader appropriateness of technical text all involve readability, but often in ways not easily measured by any formula.</p>",
+        "title": "Introduction to this classic reprint and commentaries",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7322"
+        },
+        "abstract": "<p>In research and in practice,usability specialists commonly target thetechnology user-interfaces and help as the main arena for bringing about usability improvements. However, usability improvements depend on more than innovative and user-centered technical designs and implementations. Equally important for creating useful and usable software are the social and political forces that shape the development context. These forces give rise to leadership conflicts, factional disputes, renegade efforts, alliances and betrayals, all of which profoundly influence whether usability improvements will be supported and sustained within and across projects. This essay presents and analyzes a case history of a software start-up company in which usability achieved a Pyrrhic victory, triumphing only in the short run because of social and political forces.</p>",
+        "title": "Product, process, and profit",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7323"
+        },
+        "abstract": "<p>While usability research concentrates on evaluating informational documents and Web sites, significant insights can be gained from performingusability testing on texts designed for pleasure reading, such as hypertext narratives. This article describes the results of such a test. The results demonstrate that the navigation systems required for such texts can significantly interfere with readers ability to derive value or pleasure from the fiction. The results emphasize the importance of hypertext authors providing more linear paths through texts and of simplifying the navigational apparatus required to read them.</p>",
+        "title": "Editorial",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7325"
+        },
+        "abstract": "NoteCards, developed by a team at Xerox PARC, was designed to support the task of transforming a chaotic collection of unrelated thoughts into an integrated, orderly interpretation of ideas and their interconnections. This article presents NoteCards as a foil against which to explore some of the major limitations of the current generation of hypermedia systems, and characterizes the issues that must be addressed in designing the next generation systems.",
+        "title": "Hypermedia systems in the new millennium",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7326"
+        },
+        "abstract": "This paper questions the ubiquitous practice of supplying minimalist information to users, of making that information functional only, of assuming that the Shannon-Weaver communication model should govern online systems, and of ignoring the social implications of such a stance. Help systems that provide fast, temporary solutions without providing any background information lead to the danger of users completing tasks that they do not understand at all. (Word will help us write a legal pleading, even if we have no idea what one is.) As a result, we have help systems that attempt to be invisible and to provide tool instruction but not conceptual instruction. Such a system presents itself as a neutral tool, but it is actually an incomplete environment, denying both the complexity and alternative (and possibly improved) modes of thinking about the subject at hand.",
+        "title": "Little machines",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7327"
+        },
+        "abstract": "When technical communicators have a strong personal attachment to the publication they are preparing, this attachment may interfere with the design and testing of the publication itself. Documents developed by solo authors tend to be late, buggy, and exceedingly difficult for others to maintain. \"Ego-less\" methods---collaborative and structured---break the proprietary connection between the writer and the book; in so doing they permit the most powerful tools of engineering and testing to be used. But they also reduce the satisfactions of the communicator's job.",
+        "title": "Egoless writing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7328"
+        },
+        "abstract": "In this study I attempt (a) to specify a theory that explains the historical character of change or transition in the production of written artifacts, and (b) use that theory to cast light on a particular instance of change or transition in the production of written artifacts, that of the Web, principally, the issue of structured markup and discussions about precisely what a structured Web should look like, the work it should do, and so forth. What I attempt to identify, describe, and analyze, are the norms and conventions that govern the production of written discourse.",
+        "title": "Editorial",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d7329"
+        },
+        "abstract": "Principles of information style and design have been around for years. Look at the shelf life of Strunk and White's classic The Elements of Style, published in 1959 and still a bestseller. Producing Quality Technical Information is a gem of a book, whose precise, bullet-style list of seven requirements and a checklist is now even more insightful in the fast-paced world of online information and the World-Wide Web. As a writer, I'm amazed how the IBM authors crystallized the essence of good information design in less than 100 pages. This commentary describes how the book's seven qualities and thirty individual requirements can easily and usefully be extrapolated to address key issues of interface design and usability for today's professional designers and developers.",
+        "title": "Introduction",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee281ec012701e82d732a"
+        },
+        "abstract": "Information foraging theory and strategic planning theory can help technical communicators think about effective research methods. A broader understanding of social theory can complement Gattis's approach by adding considerations related to underlying ideological assumptions and to how research practices are situated in the larger contexts of organizations, communities, and cultures.",
+        "title": "Planning and information foraging theories",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee282ec012701e82d7331"
+        },
+        "abstract": "<p>The rising abuse of computers and increasing threat to personal privacy through data banks have stimulated much interest in the technical safeguards for data. There are four kinds of safeguards, each related to but distinct from the others. Access controls regulate which users may enter the system and subsequently which data sets an active user may read or write. Flow controls regulate the dissemination of values among the data sets accessible to a user. Inference controls protect statistical databases by preventing questioners from deducing confidential information by posing carefully designed sequences of statistical queries and correlating the responses. Statistical data banks are much less secure than most people believe. Data encryption attempts to prevent unauthorized disclosure of confidential information in transit or in storage. This paper describes the general nature of controls of each type, the kinds of problems they can and cannot solve, and their inherent limitations and weaknesses. The paper is intended for a general audience with little background in the area.</p>",
+        "title": "About This Issue&#8230;",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee282ec012701e82d7337"
+        },
+        "abstract": "<p>Modes of human-computer interaction in the control of dynamicsystems are discussed, and the problem of allocating tasks betweenhuman and computer considered. Models of human performance in avariety of tasks associated with the control of dynamic systems arereviewed. These models are evaluated in the context of a designexample involving human-computer interaction in aircraftoperations. Other examples include power plants, chemical plants,and ships.</p>",
+        "title": "Guest Editor's Introduction: An Applied Psychology of the User",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee282ec012701e82d7343"
+        },
+        "abstract": "<p>The rapidly evolving field of local network technology hasproduced a steady stream of local network products in recent years.The IEEE 802 standards that are now taking shape, because of theircomplexity, do little to narrow the range of alternative technicalapproaches and at the same time encourage more vendors into thefield. The purpose of this paper is to present a systematic,organized overview of the alternative architectures for and designapproaches to local networks.</p><p>The key elements that determine the cost and performance of alocal network are its topology, transmission medium, and mediumaccess control protocol. Transmission media include twisted pair,baseband and broadband coaxial cable, and optical fiber. Topologiesinclude bus, tree, and ring. Medium access control protocolsinclude CSMA/CD, token bus, token ring, register insertion, andslotted ring. Each of these areas is examined in detail,comparisons are drawn between competing technologies, and thecurrent status of standards is reported.</p>",
+        "title": "About this issue",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7363"
+        },
+        "abstract": "<p>Floating-point arithmetic is considered as esoteric subject by many people. This is rather surprising, because floating-point is ubiquitous in computer systems: Almost every language has a floating-point datatype; computers from PCs to supercomputers have floating-point accelerators; most compilers will be called upon to compile floating-point algorithms from time to time; and virtually every operating system must respond to floating-point exceptions such as overflow. This paper presents a tutorial on the aspects of floating-point that have a direct impact on designers of computer systems. It begins with background on floating-point representation and rounding error, continues with a discussion of the IEEE floating point standard, and concludes with examples of how computer system  builders can better support floating point.</p>",
+        "title": "What every computer scientist should know about floating-point arithmetic",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7364"
+        },
+        "abstract": "<p>VLSI cell placement problem is known to be NP complete. A wide repertoire of heuristic algorithms exists in the literature for efficiently arranging the logic cells on a VLSI chip. The objective of this paper is to present a comprehensive survey of the various cell placement techniques, with emphasis on standard cell and macro placement. Five major algorithms for placement are discussed: simulated annealing, force-directed placement, min-cut placement, placement by numerical optimization, and evolution-based placement. The first two classes of algorithms owe their origin to physical laws, the third and fourth are analytical techniques, and the fifth class of algorithms is derived from biological phenomena. In each category, the basic algorithm is explained with appropriate examples.  Also discussed are the different implementations done by researchers.</p>",
+        "title": "VLSI cell placement techniques",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7367"
+        },
+        "abstract": "<p>This article reviews the available methods for automated identification of objects in digital images. The techniques are classified into groups according to the nature of the computational strategy used. Four classes are proposed: (1) the simplest strategies, which work on data appropriate for feature vector classification, (2) methods that match models to symbolic data structures for situations involving reliable data and complex models, (3) approaches that fit models to the photometry and are appropriate for noisy data and simple models, and (4) combinations of these strategies, which must be adopted in complex situations. Representative examples of various methods are summarized, and the classes of strategies with respect to their appropriateness for particular applications.</p>",
+        "title": "Computational strategies for object recognition",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7368"
+        },
+        "abstract": "<p>Software reuse is the process of creating software systems from existing software rather than building software systems from scratch. This simple yet powerful vision was introduced in 1968. Software reuse has, however, failed to become a standard software engineering practice. In an attempt to understand why, researchers have renewed their interest in software reuse and in the obstacles to implementing it.</p><p>This paper surveys the different approaches to software reuse found in the research literature. It uses a taxonomy to describe and compare the different approaches and make generalizations about the field of software reuse. The taxonomy characterizes each reuse approach in terms of its reusable <italic>artifacts</italic> and the way these artifacts are  <italic>abstracted, selected, specialized,</italic> and <italic>integrated</italic>.</p><p>Abstraction plays a central role in software reuse. Concise and expressive abstractions are essential if software artifacts are to be effectively reused. The effectiveness of a reuse technique can be evaluated in terms of <italic>cognitive distance</italic>&#8212;an intuitive gauge of the intellectual effort required to use the technique. Cognitive distance is reduced in two ways: (1) Higher level abstractions in a reuse technique reduce the effort required to go from the initial concept of a software system to representations in the reuse technique, and (2) automation reduces the effort required to go from abstractions in a reuse technique to an executable implementation.</p><p>This  survey  will help answer the following questions: What is software reuse? Why reuse software? What are the different approaches to reusing software? How effective are the different approaches? What is required to implement a software reuse technology? Why is software reuse difficult? What are the open areas for research in software reuse?</p>",
+        "title": "Software reuse",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7369"
+        },
+        "abstract": "<p>Motion planning is one of the most important areas of robotics research. The complexity of the motion-planning problem has hindered the development of practical algorithms. This paper surveys the work on gross-motion planning, including motion planners for point robots, rigid robots, and manipulators in stationary, time-varying, constrained, and movable-object environments. The general issues in motion planning are explained. Recent approaches and their performances are briefly described, and possible future research directions are discussed.</p>",
+        "title": "Gross motion planning&#8212;a survey",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d736a"
+        },
+        "abstract": "<p>Registration is a fundamental task in image processing used to match two or more pictures taken, for example, at different times, from different sensors, or from different viewpoints. Virtually all large systems which evaluate images require the registration of images, or a closely related operation, as an intermediate step. Specific examples of systems where image registration is a significant component include matching a target with a real-time image of a scene for target recognition, monitoring global land usage using satellite images, matching stereo images to recover shape for autonomous navigation, and aligning images from different medical modalities for diagnosis.</p><p>Over the years, a broad range of techniques has been developed for various types of data and problems.   These techniques have been independently studied for several different applications, resulting in a large body of research. This paper organizes this material by establishing the relationship between the variations in the images and the type of registration techniques which can most appropriately be applied. Three major types of variations are distinguished. The first type are the variations due to the differences in acquisition which cause the images to be misaligned. To register images, a spatial transformation is found which will remove these variations. The class of transformations which must be searched to find the optimal transformation is determined by knowledge about the variations of this type. The transformation class in turn influences the general technique that should be taken. The second type of variations are those which are also due to differences in acquisition, but cannot be modeled easily such as lighting and atmospheric conditions. This type usually effects intensity values, but they may also be spatial, such as perspective distortions. The third type of variations are differences in the images that are of interest such as object movements, growths, or other scene changes. Variations of the second and third type are not directly removed by registration, but they make registration more difficult since an exact match is no longer possible. In particular, it is critical that variations of the third type are not removed. Knowledge about the characteristics of each type of variation effect the choice of feature space, similarity measure, search space,   and  search strategy which will make up the final technique. All registration techniques can be viewed as different combinations of these choices. This framework is useful for understanding the merits and relationships between the wide variety of existing techniques and for assisting in the selection of the most suitable technique for a specific problem.</p>",
+        "title": "A survey of image registration techniques",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d736b"
+        },
+        "abstract": "<p>The goal in computer vision systems is to analyze data collected from the environment and derive an interpretation to complete a specified task. Vision system tasks may be divided into data acquisition, low-level processing, representation, model construction, and matching subtasks. This paper presents a comprehensive survey of model-based vision systems using dense-range images. A comprehensive survey of the recent publications in each subtask pertaining to dense-range image object recognition is presented.</p>",
+        "title": "Model-based object recognition in dense-range images&#8212;a review",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d736c"
+        },
+        "abstract": "<p>Database management systems will continue to manage large data volumes. Thus, efficient algorithms for accessing and manipulating large sets and sequences will be required to provide acceptable performance. The advent of object-oriented and extensible database systems will not solve this problem. On the contrary, modern data models exacerbate the problem: In order to manipulate large sets of complex objects as efficiently as today's database systems manipulate simple records, query-processing algorithms and software will become more complex, and a solid understanding of algorithm and architectural issues is essential for the designer of database management software.</p><p>This survey provides a foundation for the design and implementation of query execution facilities in new database management systems. It describes a wide array of practical query evaluation techniques for both relational and postrelational database systems, including iterative execution of complex query evaluation plans, the duality of sort- and hash-based set-matching algorithms, types of parallel query execution and their implementation, and special operators for emerging database application domains.</p>",
+        "title": "Query evaluation techniques for large databases",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d736d"
+        },
+        "abstract": "<p>This is a tutorial introduction to assertional reasoning based on temporal logic. The objective is to provide a working familiarity with the technique. We use a simple system model and a simple proof system, and we keep to a minimum the treatment of issues such as soundness, completeness, compositionality, and abstraction. We model a concurrent system by a state transition system and fairness requirements. We reason about such systems using Hoare logic and a subset of linear-time temporal logic, specifically, invariant assertions and leads-to assertions. We apply the method to several examples.</p>",
+        "title": "An introduction to assertional reasoning for concurrent systems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d736e"
+        },
+        "abstract": "<p>The security of information systems is a serious issue because computer abuse is increasing. It is important, therefore, that systems analysts and designers develop expertise in methods for specifying information systems security. The characteristics found in three generations of general information system design methods provide a framework for comparing and understanding current security design methods. These methods include approaches that use checklists of controls, divide functional requirements into engineering partitions, and create abstract models of both the problem and the solution. Comparisons and contrasts reveal that advances in security methods lag behind advances in general systems development methods. This analysis also reveals that more general methods fail to consider security specifications rigorously.</p>",
+        "title": "Information systems security design methods",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d736f"
+        },
+        "abstract": "<p>Probabilistic, or randomized, algorithms are fast becoming as commonplace as conventional deterministic algorithms. This survey presents five techniques that have been widely used in the design of randomized algorithms. These techniques are illustrated using 12 randomized algorithms&#8212;both sequential and distributed&#8212; that span a wide range of applications, including:<italic>primality testing</italic> (a classical problem in number theory), <italic>interactive probabilistic proof systems</italic> (a new method of program testing), <italic>dining philosophers</italic> (a classical problem in distributed computing), and <italic>Byzantine agreement</italic> (reaching agreement in the presence of malicious processors). Included with each algorithm is a discussion of its  correctness and its computational complexity. Several related topics of interest are also addressed, including the theory of probabilistic automata, probabilistic analysis of conventional algorithms, deterministic amplification, and derandomization of randomized algorithms. Finally, a comprehensive annotated bibliography is given.</p>",
+        "title": "On randomization in sequential and distributed algorithms",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7370"
+        },
+        "abstract": "<p>Disk arrays were proposed in the 1980s as a way to use parallelism between multiple disks to improve aggregate I/O performance. Today they appear in the product lines of most major computer manufacturers. This article gives a comprehensive overview of disk arrays and provides a framework in which to organize current and future work. First, the article introduces disk technology and reviews the driving forces that have popularized disk arrays: performance and reliability. It discusses the two architectural techniques used in disk arrays: striping across multiple disks to improve performance and redundancy to improve reliability. Next, the article describes seven disk array architectures, called RAID (Redundant Arrays of Inexpensive Disks) levels 0&#8211;6 and compares their   performance, cost, and reliability. It goes on to discuss advanced research and implementation topics such as refining the basic RAID levels to improve performance and designing algorithms to maintain data consistency. Last, the article describes six disk array prototypes of products and discusses future opportunities for research, with an annotated bibliography disk array-related literature.</p>",
+        "title": "RAID: high-performance, reliable secondary storage",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7371"
+        },
+        "abstract": "<p>An organized record of actual flaws can be useful to computer system designers, programmers, analysts, administrators, and users. This survey provides a taxonomy for computer program security flaws, with an Appendix that documents 50 actual security flaws. These flaws have all been described previously in the open literature, but in widely separated places. For those new to the field of computer security, they provide a good introduction to the characteristics of security flaws and how they can arise. Because these flaws were not randomly selected from a valid statistical sample of such flaws, we make no strong claims concerning the likely distribution of actual security flaws within the taxonomy. However, this method of organizing security flaw data can help those who have custody of more representative samples to organize them and to focus their efforts to remove and, eventually, to prevent the introduction of security flaws.</p>",
+        "title": "A taxonomy of computer program security flaws",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7372"
+        },
+        "abstract": "<p>In the last three decades a large number of compiler transformations for optimizing programs have been implemented. Most optimizations for uniprocessors reduce the number of instructions executed by the program using transformations based on the analysis of scalar quantities and data-flow techniques. In contrast, optimizations for high-performance superscalar, vector, and parallel processors maximize parallelism and memory locality with transformations that rely on tracking the properties of arrays using loop dependence analysis.</p><p>This survey is a comprehensive overview of the important high-level program restructuring techniques for imperative languages, such as C and Fortran. Transformations for both sequential and various types of parallel architectures are covered in depth. We describe the purpose of each transformation, explain how to determine if it is legal, and give an example of its application.</p><p>Programmers wishing to enhance the performance of their code can use this survey to improve their understanding of the optimizations that compilers can perform, or as a reference for techniques to be applied manually. Students can obtain an overview of optimizing compiler technology. Compiler writers can use this survey as a reference for most of the important optimizations developed to date, and as bibliographic reference for the details of each optimization. Readers are expected to be familiar with modern computer architecture and basic program compilation techniques.</p>",
+        "title": "Compiler transformations for high-performance computing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7373"
+        },
+        "abstract": "<p>One of the most natural, elegant, and efficient mechanisms for synchronization and communication, especially for systems with shared memory, is the <italic>monitor</italic>. Over the past twenty years many kinds of monitors have been proposed and implemented, and many modern programming languages provide some form of monitor for concurrency control. This paper presents a taxonomy of monitors that encompasses all the extant monitors and suggests others not found in the literature or in existing programming languages. It discusses the semantics and performance of the various kinds of monitors suggested by the taxonomy, and it discusses programming techniques suitable to each.</p>",
+        "title": "On computational complexity and the nature of computer science",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7374"
+        },
+        "abstract": "<p>A multidatabase system (MDBS) is a confederation of preexisting distributed, heterogeneous, and autonomous database systems. There has been a recent proliferation of research suggesting the application of object-oriented techniques to facilitate the complex task of designing and implementing MDBSs. Although this approach seems promising, the lack of a general framework impedes any further development. The goal of this paper is to provide a concrete analysis and categorization of the various ways in which object orientation has affected the task of designing and implementing MDBSs.</p><p>We identify three dimensions in which the object-oriented paradigm has influenced this task: the general system architecture, the schema architecture, and the heterogeneous transaction management. Then we provide a classification and a comprehensive analysis of the issues related to each of the above dimensions. To demonstrate the applicability of this analysis, we conclude with a comparative review of existing multidatabase systems.</p>",
+        "title": "Object orientation in multidatabase systems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7375"
+        },
+        "abstract": "<p>Utilizing parallelism at the instruction level is an important way to improve performance. Because the time spent in loop execution dominates total execution time, a large body of optimizations focuses on decreasing the time to execute each iteration. Software pipelining is a technique that reforms the loop so that a faster execution rate is realized. Iterations are executed in overlapped fashion to increase parallelism.</p><p>Let {<italic>ABC</italic>}<supscrpt><italic>n</italic></supscrpt> represent a loop containing operations <italic>A, B, C</italic> that is executed <italic>n</italic> times. Although the operations of a single iteration can be parallelized, more parallelism may be achieved if the entire loop is considered rather than a single iteration. The software pipelining transformation utilizes the fact that a loop {<italic>ABC</italic>}<supscrpt><italic>n</italic></supscrpt> is equivalent to <italic>A</italic>{<italic>BCA</italic>}<supscrpt><italic>n</italic>&minus;1</supscrpt><italic>BC</italic>. Although the operations contained in the loop do not change, the operations are from different iterations of the original loop.</p><p>Various algorithms for software pipelining exist. A comparison of the alternative methods for software pipelining is presented. The relationships between the methods are explored and possibilities for improvement highlighted.</p>",
+        "title": "Grand challenges in AI",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7378"
+        },
+        "abstract": "<p>We present an overview of the program transformation methodology, focusing our attention on the so-called &#8220;rules + strategies&#8221; approach in the case of functional and logic programs. The paper is intended to offer an introduction to the subject. The various techniques we present are illustrated via simple examples.</p>",
+        "title": "Computing Surveys symposium on models of programming languages and computation",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d7379"
+        },
+        "abstract": "<p>One of the most intriguing&#8212;and at the same time most problematic&#8212;notions in object-oriented programing is <italic>inheritance</italic>. Inheritance is commonly regarded as the feature that distinguishes object-oriented  programming from other modern programming paradigms, but researchers rarely agree on its meaning and usage. Yet inheritance of often hailed as a solution to many problems hampering software development, and many of the alleged benefits of object-oriented programming, such as improved conceptual modeling and reusability, are largely credited to it. This article aims at a comprehensive understanding of inheritance, examining its usage, surveying its varieties, and presenting a simple taxonomy of mechanisms that can be seen as underlying different inheritance models.</p>",
+        "title": "On the notion of inheritance",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee283ec012701e82d737c"
+        },
+        "abstract": "<p>This article gives an overview of a diverse selection of currently used second-generation image coding techniques. These techniques have been grouped into similar categories in order to allow a direct comparison among the varying methods. An attempt has been made, where possible, to expand upon and clarify the details given by the original authors. The relative merits ans shortcomings of each of the techniques are compared and contrasted.</p>",
+        "title": "Editorial statement",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d737d"
+        },
+        "abstract": "<p>As the gap between processor and memory speeds continues to widen, methods for evaluating memory system designs before they are implemented in hardware are becoming increasingly important. One such method, trace-driven memory simulation, has been the subject of intense interest among researchers and has, as a result, enjoyed rapid development and substantial improvements during the past decade. This article surveys and analyzes these developments by establishing criteria for evaluating trace-driven methods, and then applies these criteria to describe, categorize, and compare over 50 trace-driven simulation tools. We discuss the strengths and weaknesses of different approaches and show that no single method is best when all criteria, including accuracy, speed,  memory, flexibility, portability, expense, and ease of use are considered. In a concluding section, we examine fundamental limitations to trace-driven simulation, and survey some recent developments in memory simulation that may overcome these bottlenecks.</p>",
+        "title": "Editorial",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d737e"
+        },
+        "abstract": "<p>Sun's announcement of the programming language Java more that anything popularized the notion of mobile code, that is, programs traveling on a heterogeneous network and automatically executing upon arrival at the destination. We describe several classes of mobile code and extract their common characteristics, where security proves to be one of the major concerns. With these characteristics as reference points, we examine six representative languages proposed for mobile code. The conclusion of this study leads to our recommendations for future work, illustrated by examples of ongoing research.</p>",
+        "title": "Programming languages for mobile code",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d737f"
+        },
+        "abstract": "<p>Texture mapping has become a popular tool in the computer graphics industry in the last few years because it is an easy way to achieve a high degree of realism in computer-generated imagery with very little effort. Over the last decade, texture-mapping techniques have advanced to the point where it is possible to generate real-time perspective simulations of real-world areas by texture mapping every object surface with texture from photographic images of these real-world areas. The techniques for generating such perspective transformations are variations on traditional texture mapping that in some circles have become known as the <italic>Image Perspective Transformation</italic> or IPT technology. This article first presents a background survey of traditional texture mapping. It then  continues with a description of the texture-mapping variations that achieve these perspective transformations of photographic images of real-world scenes. The style of the presentation is that of a resource survey rather thatn an in-depth analysis.</p>",
+        "title": "Classification of research efforts in requirements engineering",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7384"
+        },
+        "abstract": "<p>This article surveys results concerning online algorihtms for solving problems related to the management of money and other assets. In particular, the survey focucus us search, replacement, and portfolio selection problems</p>",
+        "title": "About this issue",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7385"
+        },
+        "abstract": "<p>We survey parallel programming models and languages using six criteria to assess their suitability for realistic portable parallel programming. We argue that an ideal model should by easy to program, should have a software development methodology, should be architecture-independent, should be easy to understand, should guarantee performance, and should provide accurate information about the cost of programs. These criteria reflect our belief that developments in parallelism must be driven by a parallel software industry based on portability and efficiency. We consider programming models in six categories, depending on the level of abstraction they provide. Those that are very abstract conceal even the presence of parallelism at the software level. Such models make software easy to  build and port, but efficient and predictable performance is usually hard to achieve. At the other end of the spectrum, low-level models make all of the messy issues of parallel programming explicit (how many threads, how to place them, how to express communication, and how to schedule communication), so that software is hard to build and not very portable, but is usually efficient. Most recent models are near the center of this spectrum, exploring the best tradeoffs between expressiveness and performance. A few models have achieved both abstractness and efficiency. Both kinds of models raise the possibility of parallelism as part of the mainstream of computing.</p>",
+        "title": "Models and languages for parallel computation",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7386"
+        },
+        "abstract": "<p>This paper aims at discussing and classifying the various ways in which the object paradigm is used in concurrent and distributed contexts. We distinguish among the <italic>library</italic> approach, the <italic>integrative</italic> approach, and the <italic>reflective</italic> approach. The library approach applies object-oriented concepts, as they are, to structure concurrent and distributed systems through class libraries. The integrative approach consists of merging concepts such as object and activity, message passing, and transaction, etc. The reflective approach integrates class libraries intimately within an object-based programming language. We discuss and illustrate each of these and point out their complementary levels and goals.</p>",
+        "title": "Editorial",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7388"
+        },
+        "abstract": "<p>We review the recent progress in the design of efficient algorithms  for various problems in geometric optimization. We present several techniques used to attack these problems, such as parametric searching, geometric alternatives to parametric searching, prune-and-search techniques for linear programming and related problems, and LP-type problems and their efficient solution. We then describe a wide range of applications of these and other techniques to numerous problems in geometric optimization, including facility location, proximity problems, statistical estimators and metrology, placement and intersection of polygons and polyhedra, and ray shooting and other query-type problems.</p>",
+        "title": "About this issue&#8230;",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7389"
+        },
+        "abstract": "<p>Fault tolerance in distributed computing is a wide area with a significant body of literature that is vastly diverse in methodology and terminology. This paper aims at structuring the area and thus guiding readers into this interesting field. We use a formal approach to define important terms like <italic>fault, fault tolerance</italic>, and <italic>redundancy</italic>. This leads to four distinct forms of fault tolerance and to two main phases in achieving them: <italic>detection</italic> and <italic>correction</italic>. We show that this can help to reveal inherently fundamental structures that contribute to understanding and unifying methods and terminology. By doing this, we survey many existing methodologies and discuss their relations. The underlying system model is the   close-to-reality asynchronous message-passing model of distributed computing.</p>",
+        "title": "Fundamentals of fault-tolerant distributed computing in asynchronous environments",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d738a"
+        },
+        "abstract": "<p>Computer-supported cooperative work (CSCW) holds great importance and  promise for modern society. This paper provides an overview of seventeen papers comprising a symposium on CSCW. The overview also discusses some relationships among the contributions made by each paper, and places those contributions into a larger context by identifying some of the key challenges faced by computer science reseachers who aim to help us work effectively as teams mediated through networks of computers. The paper also describes why the promise of CSCW holds particular salience for the U.S. military. In the context of a military setting, the paper describes five particular challenges for CSCW researchers. While most of these challenges might seem specific to military environments, many  others probably already face similar challenges, or soon will, when attempting to collaborate through networks of computers. To support this claim, the paper includes a military scenario that might hit fairly close to home for many, and certainly for civilian emergency response personnel. After discussing the military needs for collaboration technology, the paper briefly outlines for motivation for a recent DARPA research program along these lines. That program, called Intelligent Collaboration and Visualization, sponsored the work reported in this symposium.</p>",
+        "title": "Introduction to the electronic symposium on computer-supported cooperative work",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d738b"
+        },
+        "abstract": "<p>Computer-supported cooperative work (CSCW) holds great importance and promise for modern society. This paper provides an overview of seventeen papers comprising a symposium on CSCW. The overview also discusses some relationships among the contributions made by each paper, and places those contributions into a larger context by identifying some of the key challenges faced by computer science researchers who aim to help us work effectively as teams mediated through networks of computers. The paper also describes why the promise of CSCW holds particular salience for the U.S military. In the context of a military setting, the paper describes five particular challenges for CSCW researchers. While most of these challenges might seem specific to military environments, many others probably  already face similar challenges, or soon will, when attempting to collaborate through networks of computers. To support this claim, the paper includes a military scenario that might hit fairly close to home for many, and certainly for civilian emergency response personnel. After discussing the military needs for collaboration technology, the paper briefly outlines the motivation for a recent DARPA research program along these lines. That program, called Intelligent Collaboration and Visualization, sponsored the work reported in this symposium.</p>",
+        "title": "Introduction to the Electronic Symposium on Computer-Supported Cooperative Work",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d738c"
+        },
+        "abstract": "<p>The exponential growth and capillar diffusion of the Web are nurturing a novel generation of applications, characterized by a direct business-to-customer relationship. The development of such applications is a hybrid between traditional IS development and Hypermedia authoring, and challenges the existing tools and approaches for software production. This paper investigates the current situation of Web development tools, both in the commercial and research fields, by identifying and characterizing different categories of solutions, evaluating their adequacy to the requirements of Web application development, enlightening open problems, and exposing possible future trends.</p>",
+        "title": "Computing surveys' electronic symposium on the theory of computation",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d738e"
+        },
+        "abstract": "<p>Default logic is one of the most prominent approaches to nonmonotonic reasoning, and allows one to make plausible conjectures when faced with incomplete information about the problem at hand. Default rules prevail in many application domains such as medical and legal reasoning.</p><p>Several variants have been developed over the past year, either to overcome some perceived deficiencies of the original presentation, or to realize somewhat different intuitions. This paper provides a tutorial-style introduction to some important approaches of Default Logic. The presentation is based on operational models for these approaches, thus making them easily accessible to a broader audience, and more easily usable in practical applications.</p>",
+        "title": "Computing surveys' electronic symposium on hypertext and hypermedia",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7390"
+        },
+        "abstract": "<p>The specification of reactive and real-time systems must be supported  by formal, mathematically-founded methods in order to be satisfactory and reliable. Temporal logics have been used to this end for several years. Temporal logics allow the specification of system behavior in terms of logical formulas, including temporal constraints, events, and the relationships between the two. In the last ten years, temporal logics have reached a high degree of expressiveness. Most of the temporal logics proposed in the last few years can be used for specifying reactive systems, although not all are suitable for specifying real-time systems. In this paper we present a series of criteria for assessing the capabilities of temporal logics for the specification, validation, and verification of real-time systems. Among the criteria are the logic's expressiveness, the logic's order, presence of a metric for time, the type of temporal operators, the fundamental time entity, and the structure of time. We examine a selection of temporal logics proposed in the literature. To make the comparison clearer, a set of typical specifications is identified and used with most of the temporal logics considered, thus presenting the reader with a number of real examples.</p>",
+        "title": "Temporal logics for real-time system specification",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7392"
+        },
+        "abstract": "<p>After using evolutionary techniques for single-objective optimization  during more than two decades, the incorporation of more than one objective in the fitness function has finally become a popular area of research. As a consequence, many new evolutionary-based approaches and variations of existing techniques have recently been published in the technical literature. The purpose of this paper is to summarize and organize the information on these current approaches, emphasizing the importance of analyzing the operations research techniques in which most of them are based, in an attempt to motivate researchers to look into these mathematical programming approaches for new ways of exploiting the search capabilities of evolutionary algorithms. Furthermore, a summary of the main algorithms behind these approaches is provided, together with a brief criticism that includes their advantages and disadvantages, degree of applicability, and some known applications. Finally, further trends in this area and some possible paths for further research are also addressed.</p>",
+        "title": "An updated survey of GA-based multiobjective optimization techniques",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7393"
+        },
+        "abstract": "<p>The management of electronic document collections is fundamentally different from the management of paper documents. The ephemeral nature of some electronic documents means that the document address (i.e., reference details of the document) can become incorrect some time after coming into use, resulting in references, such as index entries and hypertext links, failing to correctly address the document they describe. A classic case of invalidated references is on the World Wide Web&#8212;links that point to a named resource fail when the domain name, file name, or any other aspect of the addressed resource is changed, resulting in the well-known Error 404. Additionally, there are other errors which arise from changes to document collections.</p><p>This paper surveys the strategies used both in World Wide Web software and other hypertext systems for managing the integrity of references and hence the integrity of links. Some strategies are <italic>preventative</italic>, not permitting errors to occur; others are <italic>corrective</italic>, discovering references errors and sometimes attempting to correct them; while the last strategy is <italic>adaptive</italic>, because references are calculated on a just-in-time basis, according the current state of the document collection.</p>",
+        "title": "Electronic document addressing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7394"
+        },
+        "abstract": "<p>Logical models of arguement formalize commonsense reasoning while taking process and computation seriously. This survey discusses the main ideas that characterize different logical models of argument. It presents the formal features of a few features of a few main approaches to the modeling of argumentation. We trace the evolution of argumentation from the mid-1980s, when argument systems emerged as an alternative to nonmonotonic formalisms based on classical logic, to the present, as argument in embedded in different complex systems for real-world applications, and allow more formal work to be done in different areas, such as AI and Law, case-based reasoning and negotiation among intelligent agents.</p>",
+        "title": "Logical models of argument",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7395"
+        },
+        "abstract": "<p>Many tasks require &#8220;reasoning&#8221;&#8212;i.e., deriving conclusions from a corpus of explicitly stored information&#8212;to solve their range of problems. An ideal reasoning system would produce all-and-only the <italic>correct</italic> answers to every possible query, produce answers that are as <italic>specific</italic> as possible, be <italic>expressive</italic> enough to permit any possible fact to be stored and any possible query to be asked, and be (time) <italic>efficient</italic>. Unfortunately, this is provably impossible: as correct and precise systems become more expressive, they can become increasingly inefficient, or even undecidable. This survey first formalizes these hardness results, in the context of both logic- and probability-based reasoning, then overviews  the techniques now used to address, or at least side-step, this dilemma.</p>",
+        "title": "Efficient reasoning",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7396"
+        },
+        "abstract": "<p>This article surveys the definition and application of an enhancement of structural operational semantics in the field of concurrent systems, and also addresses issues of distribution and mobility of code. The focus is on how enriching the labels of transitions with encodings of their deduction trees is sufficient to derive qualitative and quantitative information on the systems in hand simply by relabeling the transitions of a unique concrete model.</p>",
+        "title": "Enhanced operational semantics",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7397"
+        },
+        "abstract": "The problem of searching the elements of a set that are close to a given query element under some similarity criterion has a vast number of applications in many branches of computer science, from pattern recognition to textual and multimedia information retrieval. We are interested in the rather general case where the similarity criterion defines a metric space, instead of the more restricted case of a vector space. Many solutions have been proposed in different areas, in many cases without cross-knowledge. Because of this, the same ideas have been reconceived several times, and very different presentations have been given for the same approaches. We present some basic results that explain the intrinsic difficulty of the search problem. This includes a quantitative definition of the elusive concept of \"intrinsic dimensionality.\" We also present a unified view of all the known proposals to organize metric spaces, so as to be able to understand them under a common framework. Most approaches turn out to be variations on a few different concepts. We organize those works in a taxonomy that allows us to devise new algorithms from combinations of concepts not noticed before because of the lack of communication between different communities. We present experiments validating our results and comparing the existing approaches. We finish with recommendations for practitioners and open questions for future development.",
+        "title": "Searching in metric spaces",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7398"
+        },
+        "abstract": "View-oriented group communication is an important and widely usedbuilding block for many distributed applications. Much currentresearch has been dedicated to specifying the semantics andservices of view-oriented group communication systems (GCSs).However, the guarantees of different GCSs are formulated usingvarying terminologies and modeling techniques, and thespecifications vary in their rigor. This makes it difficult toanalyze and compare the different systems. This survey provides acomprehensive set of clear and rigorous specifications, which maybe combined to represent the guarantees of most existing GCSs. Inthe light of these specifications, over 30 published GCSspecifications are surveyed. Thus, the specifications serve as aunifying framework for the classification, analysis, and comparisonof group communication systems. The survey also discusses over adozen different applications of group communication systems,shedding light on the usefulness of the presented specifications.This survey is aimed at both system builders and theoreticalresearchers. The specification framework presented in this articlewill help builders of group communication systems understand andspecify their service semantics; the extensive survey will allowthem to compare their service to others. Application builders willfind a guide here to the services provided by a large variety ofGCSs, which could help them choose the GCS appropriate for theirneeds. The formal framework may provide a basis for interestingtheoretical work, for example, analyzing relative strengths ofdifferent properties and the costs of implementing them.",
+        "title": "Group communication specifications",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d7399"
+        },
+        "abstract": "The automated categorization (or classification) of texts into predefined categories has witnessed a booming interest in the last 10 years, due to the increased availability of documents in digital form and the ensuing need to organize them. In the research community the dominant approach to this problem is based on machine learning techniques: a general inductive process automatically builds a classifier by learning, from a set of preclassified documents, the characteristics of the categories. The advantages of this approach over the knowledge engineering approach (consisting in the manual definition of a classifier by domain experts) are a very good effectiveness, considerable savings in terms of expert labor power, and straightforward portability to different domains. This survey discusses the main approaches to text categorization that fall within the machine learning paradigm. We will discuss in detail issues pertaining to three different problems, namely, document representation, classifier construction, and classifier evaluation.",
+        "title": "Machine learning in automated text categorization",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d739a"
+        },
+        "abstract": "Due to its potential to greatly accelerate a wide variety of applications, reconfigurable computing has become a subject of a great deal of research. Its key feature is the ability to perform computations in hardware to increase performance, while retaining much of the flexibility of a software solution. In this survey, we explore the hardware aspects of reconfigurable computing machines, from single chip architectures to multi-chip systems, including internal structures and external coupling. We also focus on the software that targets these machines, such as compilation tools that map high-level algorithms directly to the reconfigurable substrate. Finally, we consider the issues involved in run-time reconfigurable systems, which reuse the configurable hardware during program execution.",
+        "title": "Reconfigurable computing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee284ec012701e82d739b"
+        },
+        "abstract": "Graph layout problems are a particular class of combinatorial optimization problems whose goal is to find a linear layout of an input graph in such way that a certain objective cost is optimized. This survey considers their motivation, complexity, approximation properties, upper and lower bounds, heuristics and probabilistic analysis on random graphs. The result is a complete view of the current state of the art with respect to layout problems from an algorithmic point of view.",
+        "title": "A survey of graph layout problems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d739c"
+        },
+        "abstract": "The concept of an object-oriented database programming language (OODBPL) is appealing because it has the potential of combining the advantages of object orientation and database programming to yield a powerful and universal programming language design. A uniform and consistent combination of object orientation and database programming, however, is not straightforward. Since one of the main components of an object-oriented programming language is its type system, one of the first problems that arises during an OODBPL design is related to the development of a uniform, consistent, and theoretically sound type system that is sufficiently expressive to satisfy the combined needs of object orientation and database programming.The purpose of this article is to answer two questions: \"What are the requirements that a modern type system for an object-oriented database programming language should satisfy?\" and \"Are there any type systems developed to-date that satisfy these requirements?\". In order to answer the first question, we compile the set of requirements that an OODBPL type system should satisfy. We then use this set of requirements to evaluate more than 30 existing type systems. The result of this extensive analysis shows that while each of the requirements is satisfied by at least one type system, no type system satisfies all of them. It also enables identification of the mechanisms that lie behind the strengths and weaknesses of the current type systems.",
+        "title": "On type systems for object-oriented database programming languages",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d739d"
+        },
+        "abstract": "For many years, there has been considerable debate about whether the IT revolution was paying off in higher productivity. Studies in the 1980s found no connection between IT investment and productivity in the U.S. economy, a situation referred to as the <i>productivity paradox</i>. Since then, a decade of studies at the firm and country level has consistently shown that the impact of IT investment on labor productivity and economic growth is significant and positive. This article critically reviews the published research, more than 50 articles, on computers and productivity. It develops a general framework for classifying the research, which facilitates identifying what we know, how well we know it, and what we do not know. The framework enables us to systematically organize, synthesize, and evaluate the empirical evidence and to identify both limitations in existing research and data and substantive areas for future research.The review concludes that the productivity paradox as first formulated has been effectively refuted. At both the firm and the country level, greater investment in IT is associated with greater productivity growth. At the firm level, the review further concludes that the wide range of performance of IT investments among different organizations can be explained by complementary investments in organizational capital such as decentralized decision-making systems, job training, and business process redesign. IT is not simply a tool for automating existing processes, but is more importantly an enabler of organizational changes that can lead to additional productivity gains.In mid-2000, IT capital investment began to fall sharply due to slowing economic growth, the collapse of many Internet-related firms, and reductions in IT spending by other firms facing fewer competitive pressures from Internet firms. This reduction in IT investment has had devastating effects on the IT-producing sector, and may lead to slower economic and productivity growth in the U.S. economy. While the turmoil in the technology sector has been unsettling to investors and executives alike, this review shows that it should not overshadow the fundamental changes that have occurred as a result of firms' investments in IT. Notwithstanding the demise of many Internet-related companies, the returns to IT investment are real, and innovative companies continue to lead the way.",
+        "title": "Information technology and economic performance",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d739e"
+        },
+        "abstract": "Software systems have been using \"just-in-time\" compilation (JIT) techniques since the 1960s. Broadly, JIT compilation includes any translation performed dynamically, after a program has started execution. We examine the motivation behind JIT compilation and constraints imposed on JIT compilation systems, and present a classification scheme for such systems. This classification emerges as we survey forty years of JIT work, from 1960--2000.",
+        "title": "A brief history of just-in-time",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d739f"
+        },
+        "abstract": "Program code compression is an emerging research activity that is having an impact in several production areas such as networking and embedded systems. This is because the reduced-sized code can have a positive impact on network traffic and embedded system costs such as memory requirements and power consumption. Although code-size reduction is a relatively new research area, numerous publications already exist on it. The methods published usually have different motivations and a variety of application contexts. They may use different principles and their publications often use diverse notations. To our knowledge, there are no publications that present a good overview of this broad range of methods and give a useful assessment. This article surveys twelve methods and several related works appearing in some 50 papers published up to now. We provide extensive assessment criteria for evaluating the methods and offer a basis for comparison. We conclude that it is fairly hard to make any fair comparisons of the methods or draw conclusions about their applicability.",
+        "title": "Survey of code-size reduction methods",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a0"
+        },
+        "abstract": "MPEG-7 constitutes a promising standard for the description of multimedia content. It can be expected that a lot of applications based on MPEG-7 media descriptions will be set up in the near future. Therefore, means for the adequate management of large amounts of MPEG-7-compliant media descriptions are certainly desirable. Essentially, MPEG-7 media descriptions are XML documents following media description schemes defined with a variant of XML Schema. Thus, it is reasonable to investigate current database solutions for XML documents regarding their suitability for the management of these descriptions. In this paper, we motivate and present critical requirements for the management of MPEG-7 media descriptions and the resulting consequences for XML database solutions. Along these requirements, we discuss current state-of-the-art database solutions for XML documents. The analysis and comparison unveil the limitations of current database solutions with respect to the management of MPEG-7 media descriptions and point the way to the need for a new generation of XML database solutions.",
+        "title": "An analysis of XML database solutions for the management of MPEG-7 media descriptions",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a1"
+        },
+        "abstract": "Many developments have taken place within dataflow programming languages in the past decade. In particular, there has been a great deal of activity and advancement in the field of dataflow visual programming languages. The motivation for this article is to review the content of these recent developments and how they came about. It is supported by an initial review of dataflow programming in the 1970s and 1980s that led to current topics of research. It then discusses how dataflow programming evolved toward a hybrid von Neumann dataflow formulation, and adopted a more coarse-grained approach. Recent trends toward dataflow visual programming languages are then discussed with reference to key graphical dataflow languages and their development environments. Finally, the article details four key open topics in dataflow programming languages.",
+        "title": "Advances in dataflow programming languages",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a2"
+        },
+        "abstract": "<p>Vessel segmentation algorithms are the critical components of circulatory blood vessel analysis systems. We present a survey of vessel extraction techniques and algorithms. We put the various vessel extraction approaches and techniques in perspective by means of a classification of the existing research. While we have mainly targeted the extraction of blood vessels, neurosvascular structure in particular, we have also reviewed some of the segmentation methods for the tubular objects that show similar characteristics to vessels. We have divided vessel segmentation algorithms and techniques into six main categories: (1) pattern recognition techniques, (2) model-based approaches, (3) tracking-based approaches, (4) artificial intelligence-based approaches, (5) neural network-based approaches, and (6) tube-like object detection approaches. Some of these categories are further divided into subcategories. We have also created tables to compare the papers in each category against such criteria as dimensionality, input type, preprocessing, user interaction, and result type.</p>",
+        "title": "A review of vessel extraction techniques and algorithms",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a3"
+        },
+        "abstract": "<p>Over the past years, mobile agent technology has attracted considerable attention, and a significant body of literature has been published. To further develop mobile agent technology, reliability mechanisms such as fault tolerance and transaction support are required. This article aims at structuring the field of fault-tolerant and transactional mobile agent execution and thus at guiding the reader to understand the basic strengths and weaknesses of existing approaches. It starts with a discussion on providing fault tolerance in a system in which processes simply fail. For this purpose, we first identify two basic requirements for fault-tolerant mobile agent execution: (1) non-blocking (i.e., a single failure does not prevent progress of the mobile agent execution) and (2) exactly-once (i.e., multiple executions of the agent are prevented). This leads us to introduce the notion of a &#60;i>local transaction&#60;/i> as the basic building block for fault-tolerant mobile agent execution and to classify existing approaches according to when and by whom the local transactions are committed. In a second part, we show that transactional mobile agent execution additionally ensures execution atomicity and present a survey of existing approaches. In the last part of the survey, we extend the notion of fault tolerance to arbitrary Byzantine failures and security-related issues of the mobile agent execution.</p>",
+        "title": "Approaches to fault-tolerant and transactional mobile agent execution---an algorithmic view",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a4"
+        },
+        "abstract": "Distributed computer architectures labeled \"peer-to-peer\" are designed for the sharing of computer resources (content, storage, CPU cycles) by direct exchange, rather than requiring the intermediation or support of a centralized server or authority. Peer-to-peer architectures are characterized by their ability to adapt to failures and accommodate transient populations of nodes while maintaining acceptable connectivity and performance.Content distribution is an important peer-to-peer application on the Internet that has received considerable research attention. Content distribution applications typically allow personal computers to function in a coordinated manner as a distributed storage medium by contributing, searching, and obtaining digital content.In this survey, we propose a framework for analyzing peer-to-peer content distribution technologies. Our approach focuses on nonfunctional characteristics such as security, scalability, performance, fairness, and resource management potential, and examines the way in which these characteristics are reflected in---and affected by---the architectural design decisions adopted by current peer-to-peer systems.We study current peer-to-peer systems and infrastructure technologies in terms of their distributed object location and routing mechanisms, their approach to content replication, caching and migration, their support for encryption, access control, authentication and identity, anonymity, deniability, accountability and reputation, and their use of resource trading and management schemes.",
+        "title": "A survey of peer-to-peer content distribution technologies",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a5"
+        },
+        "abstract": "Scientific research relies as much on the dissemination and exchange of data sets as on the publication of conclusions. Accurately tracking the lineage (origin and subsequent processing history) of scientific data sets is thus imperative for the complete documentation of scientific work. Researchers are effectively prevented from determining, preserving, or providing the lineage of the computational data products they use and create, however, because of the lack of a definitive model for lineage retrieval and a poor fit between current data management tools and scientific software. Based on a comprehensive survey of lineage research and previous prototypes, we present a metamodel to help identify and assess the basic components of systems that provide lineage retrieval for scientific data products.",
+        "title": "Lineage retrieval for scientific data processing: a survey",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a6"
+        },
+        "abstract": "Since the early 1960's, researchers have built a number of programming languages and environments with the intention of making programming accessible to a larger number of people. This article presents a taxonomy of languages and environments designed to make programming more accessible to novice programmers of all ages. The systems are organized by their primary goal, either to teach programming or to use programming to empower their users, and then, by each system's authors' approach, to making learning to program easier for novice programmers. The article explains all categories in the taxonomy, provides a brief description of the systems in each category, and suggests some avenues for future work in novice programming environments and languages.",
+        "title": "Lowering the barriers to programming",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a7"
+        },
+        "abstract": "Power consumption is a major factor that limits the performance of computers. We survey the &#8220;state of the art&#8221; in techniques that reduce the total power consumed by a microprocessor system over time. These techniques are applied at various levels ranging from circuits to architectures, architectures to system software, and system software to applications. They also include holistic approaches that will become more important over the next decade. We conclude that power management is a multifaceted discipline that is continually expanding with new techniques being developed at every level. These techniques may eventually allow computers to break through the &#8220;power wall&#8221; and achieve unprecedented levels of performance, versatility, and reliability. Yet it remains too early to tell which techniques will ultimately solve the power problem.",
+        "title": "Power reduction techniques for microprocessor systems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a8"
+        },
+        "abstract": "Medical information systems today store clinical information about patients in all kinds of proprietary formats. To address the resulting interoperability problems, several Electronic Healthcare Record standards that structure the clinical content for the purpose of exchange are currently under development. In this article, we present a survey of the most relevant Electronic Healthcare Record standards, examine the level of interoperability they provide, and assess their functionality in terms of content structure, access services, multimedia support, and security. We further investigate the complementarity of the standards and assess their market relevance.",
+        "title": "A survey and analysis of Electronic Healthcare Record standards",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73a9"
+        },
+        "abstract": "The scaling of microchip technologies has enabled large scale systems-on-chip (SoC). Network-on-chip (NoC) research addresses global communication in SoC, involving (i) a move from computation-centric to communication-centric design and (ii) the implementation of scalable communication structures. This survey presents a perspective on existing NoC research. We define the following abstractions: system, network adapter, network, and link to explain and structure the fundamental concepts. First, research relating to the actual network design is reviewed. Then system level design and modeling are discussed. We also evaluate performance analysis techniques. The research shows that NoC constitutes a unification of current trends of intrachip communication rather than an explicit new alternative.",
+        "title": "A survey of research and practices of Network-on-chip",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73aa"
+        },
+        "abstract": "The growing availability of online textual sources and the potential number of applications of knowledge acquisition from textual data has lead to an increase in Information Extraction (IE) research. Some examples of these applications are the generation of data bases from documents, as well as the acquisition of knowledge useful for emerging technologies like question answering, information integration, and others related to text mining. However, one of the main drawbacks of the application of IE refers to its intrinsic domain dependence. For the sake of reducing the high cost of manually adapting IE applications to new domains, experiments with different Machine Learning (ML) techniques have been carried out by the research community. This survey describes and compares the main approaches to IE and the different ML techniques used to achieve Adaptive IE technology.",
+        "title": "Adaptive information extraction",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73ab"
+        },
+        "abstract": "Laboratory-based courses play a critical role in scientific education. Automation is changing the nature of these laboratories, and there is a long-running debate about the value of hands-on versus simulated laboratories. In addition, the introduction of remote laboratories adds a third category to the debate. Through a review of the literature related to these labs in education, the authors draw several conclusions about the state of current research. The debate over different technologies is confounded by the use of different educational objectives as criteria for judging the laboratories: Hands-on advocates emphasize design skills, while remote lab advocates focus on conceptual understanding. We observe that the boundaries among the three labs are blurred in the sense that most laboratories are mediated by computers, and that the psychology of presence may be as important as technology. We also discuss areas for future research.",
+        "title": "Hands-on, simulated, and remote laboratories",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73ac"
+        },
+        "abstract": "The construction of natural language interfaces to computers continues to be a major challenge. The need for such interfaces is growing now that speech recognition technology is becoming more readily available, and people cannot speak those computer-oriented formal languages that are frequently used to interact with computer applications. Much of the research related to the design and implementation of natural language interfaces has involved the use of high-level declarative programming languages. This is to be expected as the task is extremely difficult, involving syntactic and semantic analysis of potentially ambiguous input. The use of LISP and Prolog in this area is well documented. However, research involving the relatively new lazy functional programming paradigm is less well known. This paper provides a comprehensive survey of that research.",
+        "title": "Realization of natural language interfaces using lazy functional programming",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73ad"
+        },
+        "abstract": "<p>The article reviews the most popular peer-to-peer key management protocols for mobile ad hoc networks (MANETs). The protocols are subdivided into groups based on their design strategy or main characteristic. The article discusses and provides comments on the strategy of each group separately. The discussions give insight into open research problems in the area of pairwise key management.</p>",
+        "title": "A survey on peer-to-peer key management for mobile ad hoc networks",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73ae"
+        },
+        "abstract": "<p>In 1990, Manber and Myers proposed suffix arrays as a space-saving alternative to suffix trees and described the first algorithms for suffix array construction and use. Since that time, and especially in the last few years, suffix array construction algorithms have proliferated in bewildering abundance. This survey paper attempts to provide simple high-level descriptions of these numerous algorithms that highlight both their distinctive features and their commonalities, while avoiding as much as possible the complexities of implementation details. New hybrid algorithms are also described. We provide comparisons of the algorithms' worst-case time complexity and use of additional space, together with results of recent experimental test runs on many of their implementations.</p>",
+        "title": "A taxonomy of suffix array construction algorithms",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73af"
+        },
+        "abstract": "<p>We study and compare topology aggregation techniques used in QoS routing. Topology Aggregation (TA) is defined as a set of techniques that abstract or summarize the state information about the network topology to be exchanged, processed, and maintained by network nodes for routing purposes. Due to scalability, aggregation techniques have been an integral part of some routing protocols. However, TA has not been studied extensively except in a rather limited context. With the continuing growth of the Internet, scalability issues of QoS routing have been gaining importance. Therefore, we survey the current TA techniques, provide methodology to classify, evaluate, and compare their complexities and efficiencies.</p>",
+        "title": "Analysis of Topology Aggregation techniques for QoS routing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b0"
+        },
+        "abstract": "<p>Ontologies, as sets of concepts and their interrelations in a specific domain, have proven to be a useful tool in the areas of digital libraries, the semantic web, and personalized information management. As a result, there is a growing need for effective ontology visualization for design, management and browsing. There exist several ontology visualization methods and also a number of techniques used in other contexts that could be adapted for ontology representation. The purpose of this article is to present these techniques and categorize their characteristics and features in order to assist method selection and promote future research in the area of ontology visualization.</p>",
+        "title": "Ontology visualization methods&#8212;a survey",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b1"
+        },
+        "abstract": "<p>This is a survey of a data structures and their use in computer graphics systems. First, the reasons for using data structures are given. Then the sequential, random, and list organizations are discussed, and it is shown how they may be used to build complex data structures. Representative samples of languages specifically designed for creating and manipulating data structures are described next. Finally some typical computer graphics systems and their data structures are described. It is also pointed out that much work remains to be done to develop a satisfactory theoretical foundation for designing data structures.</p>",
+        "title": "A Survey of Data Structures for Computer Graphics Systems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b2"
+        },
+        "abstract": "<p>Consideration is given to the basic methodology for table searching in computer programming. Only static tables are treated, but references are made to techniques for handling dynamic tables. Methods described are: sequential search, merge search, binary search, estimated entry, and direct entry. The rationale of key transformation is discussed, with some consideration of methods of &#8220;hash addressing.&#8221; A general guide to technique selection is given in conclusion.</p>",
+        "title": "Table Lookup Techniques",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b3"
+        },
+        "abstract": "<p>Three major purposes for evaluating the hardware and softwareperformance of computer systems--selection evaluation, performanceprojection, and performance monitoring--are described. Eighttechniques that have been used or suggested for evaluatingperformance are discussed. Each of these techniques is rated on itssuitability for the three purposes of evaluation. Recommendationsare made on the most appropriate technique for each evaluationpurpose. These suggestions include the development of acomprehensive set of synthetic programs on an industry-wide basisfor selection evaluation purposes. Simulation is recommended as themost suitable technique for performance projection. Finally, anumber of hardware and software monitors are available forperformance monitoring.</p>",
+        "title": "Performance Evaluation and Monitoring",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b4"
+        },
+        "abstract": "<p>The bibliography appearing at the end of this article lists 37 sorting algorithms and 100 books and papers on sorting published in the last 20 years. The basic ideas presented here have been abstracted from this body of work, and the best algorithms known are given as examples. As the algorithms are explained, references to related algorithms and mathematical or experimental analyses are given. Suggestions are then made for choosing the algorithm best suited to a given situation.</p>",
+        "title": "Sorting",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b5"
+        },
+        "abstract": "<p>Graph database models can be defined as those in which data structures for the schema and instances are modeled as graphs or generalizations of them, and data manipulation is expressed by graph-oriented operations and type constructors. These models took off in the eighties and early nineties alongside object-oriented models. Their influence gradually died out with the emergence of other database models, in particular geographical, spatial, semistructured, and XML. Recently, the need to manage information with graph-like nature has reestablished the relevance of this area. The main objective of this survey is to present the work that has been conducted in the area of graph database modeling, concentrating on data structures, query languages, and integrity constraints.</p>",
+        "title": "Survey of graph database models",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b6"
+        },
+        "abstract": "<p>Most contemporary Web frameworks may be classified as server-centric. An overview of such Web frameworks is presented. It is based on information gleaned from surveying 80 server-centric Web frameworks, as well as from popular related specifications. Requirements typically expected of a server-centric Web framework are discussed. Two Web framework taxonomies are proposed, reflecting two orthogonal ways of characterizing a framework: the way in which the markup language content of a browser-destined document is specified in the framework (presentation concerns); and the framework's facilities for the user to control the flow of events between browser and server (control concerns).</p>",
+        "title": "Server-centric Web frameworks",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b7"
+        },
+        "abstract": "<p>Autonomic Computing is a concept that brings together many fields of computing with the purpose of creating computing systems that self-manage. In its early days it was criticised as being a &#8220;hype topic&#8221; or a rebadging of some Multi Agent Systems work. In this survey, we hope to show that this was not indeed &#8216;hype&#8217; and that, though it draws on much work already carried out by the Computer Science and Control communities, its innovation is strong and lies in its robust application to the specific self-management of computing systems. To this end, we first provide an introduction to the motivation and concepts of autonomic computing and describe some research that has been seen as seminal in influencing a large proportion of early work. Taking the components of an established reference model in turn, we discuss the works that have provided significant contributions to that area. We then look at larger scaled systems that compose autonomic systems illustrating the hierarchical nature of their architectures. Autonomicity is not a well defined subject and as such different systems adhere to different degrees of Autonomicity, therefore we cross-slice the body of work in terms of these degrees. From this we list the key applications of autonomic computing and discuss the research work that is missing and what we believe the community should be considering.</p>",
+        "title": "A survey of autonomic computing&#8212;degrees, models, and applications",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b8"
+        },
+        "abstract": "<p>Efficient processing of top-<i>k</i> queries is a crucial requirement in many interactive environments that involve massive amounts of data. In particular, efficient top-<i>k</i> processing in domains such as the Web, multimedia search, and distributed systems has shown a great impact on performance. In this survey, we describe and classify top-<i>k</i> processing techniques in relational databases. We discuss different design dimensions in the current techniques including query models, data access methods, implementation levels, data and query certainty, and supported scoring functions. We show the implications of each dimension on the design of the underlying techniques. We also discuss top-<i>k</i> queries in XML domain, and show their connections to relational approaches.</p>",
+        "title": "A survey of top-<i>k</i> query processing techniques in relational database systems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73b9"
+        },
+        "abstract": "<p>The development of the Internet in recent years has made it possible and useful to access many different information systems anywhere in the world to obtain information. While there is much research on the integration of heterogeneous information systems, most commercial systems stop short of the actual integration of available data. Data fusion is the process of fusing multiple records representing the same real-world object into a single, consistent, and clean representation.</p> <p>This article places data fusion into the greater context of data integration, precisely defines the goals of data fusion, namely, complete, concise, and consistent data, and highlights the challenges of data fusion, namely, uncertain and conflicting data values. We give an overview and classification of different ways of fusing data and present several techniques based on standard and advanced operators of the relational algebra and SQL. Finally, the article features a comprehensive survey of data integration systems from academia and industry, showing if and how data fusion is performed in each.</p>",
+        "title": "Data fusion",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee285ec012701e82d73ba"
+        },
+        "abstract": "<p>Chemoinformatics is an interface science aimed primarily at discovering novel chemical entities that will ultimately result in the development of novel treatments for unmet medical needs, although these same methods are also applied in other fields that ultimately design new molecules. The field combines expertise from, among others, chemistry, biology, physics, biochemistry, statistics, mathematics, and computer science. In this general review of chemoinformatics the emphasis is placed on describing the general methods that are routinely applied in molecular discovery and in a context that provides for an easily accessible article for computer scientists as well as scientists from other numerate disciplines.</p>",
+        "title": "Chemoinformatics&#8212;an introduction for computer scientists",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73bb"
+        },
+        "abstract": "<p>In practice, any database management system sometimes needs reorganization, that is, a change in some aspect of the logical and/or physical arrangement of a database. In traditional practice, many types of reorganization have required denying access to a database (taking the database offline) during reorganization. Taking a database offline can be unacceptable for a highly available (24-hour) database, for example, a database serving electronic commerce or armed forces, or for a very large database. A solution is to reorganize online (concurrently with usage of the database, incrementally during users' activities, or interpretively). This article is a tutorial and survey on requirements, issues, and strategies for online reorganization. It analyzes the issues and then presents the strategies, which use the issues. The issues, most of which involve design trade-offs, include use of partitions, the locus of control for the process that reorganizes (a background process or users' activities), reorganization by copying to newly allocated storage (as opposed to reorganizing in place), use of differential files, references to data that has moved, performance, and activation of reorganization. The article surveys online strategies in three categories of reorganization. The first category, maintenance, involves restoring the physical arrangement of data instances without changing the database definition. This category includes restoration of clustering, reorganization of an index, rebalancing of parallel or distributed data, garbage collection for persistent storage, and cleaning (reclamation of space) in a log-structured file system. The second category involves changing the physical database definition; topics include construction of indexes, conversion between B<sup>+</sup> -trees and linear hash files, and redefinition (e.g., splitting) of partitions. The third category involves changing the logical database definition. Some examples are changing a column's data type, changing the inheritance hierarchy of object classes, and changing a relationship from one-to-many to many-to-many. The survey encompasses both research and commercial implementations, and this article points out several open research topics. As highly available or very large databases continue to become more common and more important in the world economy, the importance of online reorganization is likely to continue growing.</p>",
+        "title": "Online reorganization of databases",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73bc"
+        },
+        "abstract": "<p>Formal methods use mathematical models for analysis and verification at any part of the program life-cycle. We describe the state of the art in the industrial use of formal methods, concentrating on their increasing use at the earlier stages of specification and design. We do this by reporting on a new survey of industrial use, comparing the situation in 2009 with the most significant surveys carried out over the last 20 years. We describe some of the highlights of our survey by presenting a series of industrial projects, and we draw some observations from these surveys and records of experience. Based on this, we discuss the issues surrounding the industrial adoption of formal methods. Finally, we look to the future and describe the development of a Verified Software Repository, part of the worldwide Verified Software Initiative. We introduce the initial projects being used to populate the repository, and describe the challenges they address.</p>",
+        "title": "Preface to special issue on software verification",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73bd"
+        },
+        "abstract": "<p>Reputation systems provide mechanisms to produce a metric encapsulating reputation for a given domain for each identity within the system. These systems seek to generate an accurate assessment in the face of various factors including but not limited to unprecedented community size and potentially adversarial environments.</p> <p>We focus on attacks and defense mechanisms in reputation systems. We present an analysis framework that allows for the general decomposition of existing reputation systems. We classify attacks against reputation systems by identifying which system components and design choices are the targets of attacks. We survey defense mechanisms employed by existing reputation systems. Finally, we analyze several landmark systems in the peer-to-peer domain, characterizing their individual strengths and weaknesses. Our work contributes to understanding (1) which design components of reputation systems are most vulnerable, (2) what are the most appropriate defense mechanisms and (3) how these defense mechanisms can be integrated into existing or future reputation systems to make them resilient to attacks.</p>",
+        "title": "A survey of attack and defense techniques for reputation systems",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73be"
+        },
+        "abstract": "<p>The increasing relevance of areas such as real-time and embedded systems, pervasive computing, hybrid systems control, and biological and social systems modeling is bringing a growing attention to the temporal aspects of computing, not only in the computer science domain, but also in more traditional fields of engineering.</p> <p>This article surveys various approaches to the formal modeling and analysis of the temporal features of computer-based systems, with a level of detail that is also suitable for nonspecialists. In doing so, it provides a unifying framework, rather than just a comprehensive list of formalisms.</p> <p>The article first lays out some key dimensions along which the various formalisms can be evaluated and compared. Then, a significant sample of formalisms for time modeling in computing are presented and discussed according to these dimensions. The adopted perspective is, to some extent, historical, going from &#8220;traditional&#8221; models and formalisms to more modern ones.</p>",
+        "title": "Modeling time in computing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73bf"
+        },
+        "abstract": "<p>With the ever-growing complexity and dynamicity of computer systems, proactive fault management is an effective approach to enhancing availability. Online failure prediction is the key to such techniques. In contrast to classical reliability methods, online failure prediction is based on runtime monitoring and a variety of models and methods that use the current state of a system and, frequently, the past experience as well. This survey describes these methods. To capture the wide spectrum of approaches concerning this area, a taxonomy has been developed, whose different approaches are explained and major concepts are described in detail.</p>",
+        "title": "A survey of online failure prediction methods",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c0"
+        },
+        "abstract": "<p>Reconfigurable computing platforms offer the promise of substantially accelerating computations through the concurrent nature of hardware structures and the ability of these architectures for hardware customization. Effectively programming such reconfigurable architectures, however, is an extremely cumbersome and error-prone process, as it requires programmers to assume the role of hardware designers while mastering hardware description languages, thus limiting the acceptance and dissemination of this promising technology. To address this problem, researchers have developed numerous approaches at both the programming languages as well as the compilation levels, to offer high-level programming abstractions that would allow programmers to easily map applications to reconfigurable architectures. This survey describes the major research efforts on compilation techniques for reconfigurable computing architectures. The survey focuses on efforts that map computations written in imperative programming languages to reconfigurable architectures and identifies the main compilation and synthesis techniques used in this mapping.</p>",
+        "title": "Compiling for reconfigurable computing",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c1"
+        },
+        "abstract": "<p>Studying proteins and their structures has an important role for understanding protein functionalities. Recently, due to important results obtained with proteomics, a great interest has been given to <i>interactomics</i>, that is, the study of protein-to-protein interactions, called PPI, or more generally, interactions among macromolecules, particularly within cells. Interactomics means studying, modeling, storing, and retrieving protein-to-protein interactions as well as algorithms for manipulating, simulating, and predicting interactions. PPI data can be obtained from biological experiments studying interactions. Modeling and storing PPIs can be realized by using graph theory and graph data management, thus graph databases can be queried for further experiments. PPI graphs can be used as input for data-mining algorithms, where raw data are binary interactions forming interaction graphs, and analysis algorithms retrieve biological interactions among proteins (i.e., PPI biological meanings). For instance, predicting the interactions between two or more proteins can be obtained by mining interaction networks stored in databases. In this article we survey modeling, storing, analyzing, and manipulating PPI data. After describing the main PPI models, mostly based on graphs, the article reviews PPI data representation and storage, as well as PPI databases. Algorithms and software tools for analyzing and managing PPI networks are discussed in depth. The article concludes by discussing the main challenges and research directions in PPI networks.</p>",
+        "title": "Protein-to-protein interactions",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c2"
+        },
+        "abstract": "<p>Time series are recorded values of an interesting phenomenon such as stock prices, household incomes, or patient heart rates over a period of time. Time series data mining focuses on discovering interesting patterns in such data. This article introduces a wavelet-based time series data analysis to interested readers. It provides a systematic survey of various analysis techniques that use discrete wavelet transformation (DWT) in time series data mining, and outlines the benefits of this approach demonstrated by previous studies performed on diverse application domains, including image classification, multimedia retrieval, and computer network anomaly detection.</p>",
+        "title": "Discrete wavelet transform-based time series analysis and mining",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c3"
+        },
+        "abstract": "<p>It has appeared recently that the underlying degree distribution of networks may play a crucial role concerning their robustness. Previous work insisted on the fact that power-law degree distributions induce high resilience to random failures but high sensitivity to attack strategies, while Poisson degree distributions are quite sensitive in both cases. Then much work has been done to extend these results.</p> <p>We aim here at studying in depth these results, their origin, and limitations. We review in detail previous contributions in a unified framework, and identify the approximations on which these results rely. We then present new results aimed at clarifying some important aspects. We also provide extensive rigorous experiments which help evaluate the relevance of the analytic results.</p> <p>We reach the conclusion that, even if the basic results are clearly important, they are in practice much less striking than generally thought. The differences between random failures and attacks are not so huge and can be explained with simple facts. Likewise, the differences in the behaviors induced by power-law and Poisson distributions are not as striking as often claimed.</p>",
+        "title": "Impact of random failures and attacks on Poisson and power-law random networks",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c4"
+        },
+        "abstract": "<p>Determining the factors that have an influence on software systems development and deployment project outcomes has been the focus of extensive and ongoing research for more than 30 years. We provide here a survey of the research literature that has addressed this topic in the period 1996&#8211;2006, with a particular focus on empirical analyses. On the basis of this survey we present a new classification framework that represents an abstracted and synthesized view of the types of factors that have been asserted as influencing project outcomes.</p>",
+        "title": "Factors that affect software systems development project outcomes",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c5"
+        },
+        "abstract": "<p>The relative ineffectiveness of information retrieval systems is largely caused by the inaccuracy with which a query formed by a few keywords models the actual user information need. One well known method to overcome this limitation is automatic query expansion (AQE), whereby the user&#8217;s original query is augmented by new features with a similar meaning. AQE has a long history in the information retrieval community but it is only in the last years that it has reached a level of scientific and experimental maturity, especially in laboratory settings such as TREC. This survey presents a unified view of a large number of recent approaches to AQE that leverage various data sources and employ very different principles and techniques. The following questions are addressed. Why is query expansion so important to improve search effectiveness? What are the main steps involved in the design and implementation of an AQE component? What approaches to AQE are available and how do they compare? Which issues must still be resolved before AQE becomes a standard component of large operational information retrieval systems (e.g., search engines)?</p>",
+        "title": "A Survey of Automatic Query Expansion in Information Retrieval",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c6"
+        },
+        "abstract": "<p>Anti-virus vendors are confronted with a multitude of potentially malicious samples today. Receiving thousands of new samples every day is not uncommon. The signatures that detect confirmed malicious threats are mainly still created manually, so it is important to discriminate between samples that pose a new unknown threat and those that are mere variants of known malware.</p> <p>This survey article provides an overview of techniques based on dynamic analysis that are used to analyze potentially malicious samples. It also covers analysis programs that leverage these It also covers analysis programs that employ these techniques to assist human analysts in assessing, in a timely and appropriate manner, whether a given sample deserves closer manual inspection due to its unknown malicious behavior.</p>",
+        "title": "A survey on automated dynamic malware-analysis techniques and tools",
+        "fullText": null
+    },
+    {
+        "_id": {
+            "$oid": "675ee286ec012701e82d73c7"
+        },
+        "abstract": "<p>We present a survey of control-flow analysis of functional programs, which has been the subject of extensive investigation throughout the past 30 years. Analyses of the control flow of functional programs have been formulated in multiple settings and have led to many different approximations, starting with the seminal works of Jones, Shivers, and Sestoft. In this article, we survey control-flow analysis of functional programs by structuring the multitude of formulations and approximations and comparing them.</p>",
+        "title": "Control-flow analysis of functional programs",
+        "fullText": null
+    }
+]
