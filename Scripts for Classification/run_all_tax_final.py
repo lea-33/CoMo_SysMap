@@ -5,7 +5,7 @@ from bson import ObjectId
 import time
 import numpy as np
 
-my_api_key = "sk-zgUvoFsKaZMh0N-hz-c0Pw"
+my_api_key = "your-api-key"
 token_limit = 131000  # Token limit for the prompt
 
 # OpenAI client
@@ -18,7 +18,7 @@ for model in openai_client.models.list().data:
         break
 
 # Path to the certificate
-tls_certificate_path = r"C:\Users\leagi\Documents\1_Master_Bioinformatik\WS_2024_25\Human-Computer Interaction\sys_map\zert.pem"
+tls_certificate_path = r"path-to-certificate\zert.pem"
 
 # MongoDB connection string
 CONNECTION_STRING = (
