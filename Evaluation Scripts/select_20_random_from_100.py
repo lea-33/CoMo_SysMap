@@ -4,7 +4,7 @@ from bson import ObjectId
 import random
 
 # Path to the certificate
-tls_certificate_path = r"C:\Users\leagi\Documents\1_Master_Bioinformatik\WS_2024_25\Human-Computer Interaction\sys_map\zert.pem"
+tls_certificate_path = r"zert.pem"
 
 # MongoDB connection string
 CONNECTION_STRING = (
