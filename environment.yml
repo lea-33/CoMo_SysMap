@@ -136,9 +136,4 @@ dependencies:
       - typing-extensions==4.12.2
       - tzdata==2024.2
       - widgetsnbextension==4.0.13
-variables:
-  my_key: ''
-  '': ''
-  sk-zgUvoFsKaZMh0N-hz-c0Pw: ''
-  MY_API_KEY: sk-zgUvoFsKaZMh0N-hz-c0Pw
 prefix: C:\Users\leagi\conda\envs\sys_map
