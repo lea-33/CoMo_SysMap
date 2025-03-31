@@ -14,7 +14,7 @@ plt.rcParams.update({
 })
 
 # MongoDB connection setup
-tls_certificate_path = r"C:\Users\leagi\Documents\1_Master_Bioinformatik\WS_2024_25\Human-Computer Interaction\sys_map\zert.pem"
+tls_certificate_path = r"zert.pem"
 
 CONNECTION_STRING = (
     "mongodb+srv://hci.9iakh.mongodb.net/"
